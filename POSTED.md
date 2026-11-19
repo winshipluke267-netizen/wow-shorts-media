@@ -7,3 +7,4 @@ Rule: never post a file listed here, and never post any file that is in videos/ 
 - cozy_sleeping_bag.mp4: TikTok posted 2026-11-19 15:03 (Buffer post 6aff0f5b5187bf7d546d7bb6). YouTube scheduled in Buffer for 2026-11-20 10:00 UK (post 6aff0f6676fc37c1234f9716).
 
 ## Posted by the daily task (append one line per video: filename | TikTok post id | YouTube post id | date)
+- horizontal_progression.mp4 | TikTok 6aff1a3b5f7d5b08771987a6 (posted 2026-11-19 15:48) | YouTube: not posted (user asked TikTok only; add via Buffer when YouTube is ready) | 2026-11-19
