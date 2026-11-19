@@ -2,6 +2,16 @@
 
 The daily task posts up to 3 per day from the top of this list through Buffer (see its prompt). After a video is posted, or if it is already on the channel, move its line to POSTED.md and delete it here.
 
+## horizontal_progression.mp4
+- URL: https://raw.githubusercontent.com/winshipluke267-netizen/wow-shorts-media/main/videos/horizontal_progression.mp4
+- Title: Horizontal Progression in WoW Forever | #Shorts
+- Description:
+```
+Is Wow Forever really horizontal progression? Here's what's in the game now and what's coming next: the level 60 cap, the Legacy System, December 9 raids and the 2027 roadmap. What do you want covered next? Comment below! Info via Blizzard and Wowhead
+
+#wowforever #worldofwarcraft #wow #horizontalprogression #legacysystem #wowclassic #mmorpg #gaming #Shorts
+```
+
 ## dire_maul_north_quests.mp4
 - URL: https://raw.githubusercontent.com/winshipluke267-netizen/wow-shorts-media/main/videos/dire_maul_north_quests.mp4
 - Title: Dire Maul North Quests | WoW Forever #Shorts
