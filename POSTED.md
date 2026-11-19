@@ -8,3 +8,4 @@ Rule: never post a file listed here, and never post any file that is in videos/ 
 
 ## Posted by the daily task (append one line per video: filename | TikTok post id | YouTube post id | date)
 - horizontal_progression.mp4 | TikTok 6aff1a3b5f7d5b08771987a6 (posted 2026-11-19 15:48) | YouTube: in YOUTUBE_BACKLOG.md, top of list | 2026-11-19
+horizontal_progression.mp4 | YouTube 6aff81d51a1724ac8f589958 scheduled 2026-11-20 12:00 UK (from backlog) | 2026-11-19
