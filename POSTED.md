@@ -18,3 +18,6 @@ hotfixes_nov20.mp4 | TikTok 6b01baf6d5eabfb8cc4038e4 (2026-11-21 18:30 UK) | You
 drowned_city_quests.mp4 | - | YouTube 6b02908dd864a01105a21062 scheduled 2026-11-23 11:30 UK | 2026-11-22 (backlog)
 pvp_honor_rank.mp4 | TikTok 6b02ea1ccc364169c1560404 (2026-11-22 18:30 UK) | YouTube 6b02ea1dc72676f5e92ddc1b (2026-11-24 10:00 UK) | 2026-11-22
 healer_shortage.mp4 | TikTok 6b02ea1dc72676f5e92ddbf0 (2026-11-23 12:30 UK) | YouTube 6b02ea1ed5eabfb8ccac8321 (2026-11-24 16:00 UK) | 2026-11-22
+healer_shortage.mp4 | TikTok moved to 2026-11-22 21:00 UK at user request (post 6b02ea1dc72676f5e92ddbf0) | 2026-11-22
+bis_itemization.mp4 | TikTok 6b02ed0cd5eabfb8ccadd643 (2026-11-23 12:30 UK) | YouTube 6b02ed0dd864a01105c6c9ed (2026-11-25 10:00 UK) | 2026-11-22
+merchant_factions.mp4 | TikTok 6b02ed0dd5eabfb8ccadd68a (2026-11-23 18:30 UK) | YouTube 6b02ed0e846b0ee9078a88cf (2026-11-25 16:00 UK) | 2026-11-22
