@@ -13,7 +13,7 @@ raids_dec9.mp4 | TikTok 6affee30d5f8acdd0d7a8f6d (2026-11-20 12:30 UK) | YouTube
 onyxia_attunement.mp4 | TikTok 6affee310f5eda1a57cabe6f (2026-11-20 18:30 UK) | YouTube 6affee327b0a126cebb453d8 (2026-11-21 16:00 UK) | 2026-11-20
 legacy_points_fast.mp4 | posted manually by the user to TikTok and YouTube (not via Buffer, do not queue) | 2026-11-20
 dire_maul_north_quests.mp4 | - | YouTube 6b013f43510276624500c37d scheduled 2026-11-22 11:30 UK | 2026-11-21 (backlog)
-dire_maul_west_quests.mp4 | - | YouTube 6b013f44d9cbb430a1265c2a scheduled 2026-11-22 13:00 UK | 2026-11-21 (backlog)
+dire_maul_west_quests.mp4 | - | YouTube 6b013f44d9cbb430a1265c2a FAILED 2026-11-22 (daily limit); back in YOUTUBE_BACKLOG.md | 2026-11-21 (backlog)
 hotfixes_nov20.mp4 | TikTok 6b01baf6d5eabfb8cc4038e4 (2026-11-21 18:30 UK) | YouTube 6b01baf7d864a0110556b928 (moved to 2026-11-22 19:00 UK at user request) | 2026-11-21
 drowned_city_quests.mp4 | - | YouTube 6b02908dd864a01105a21062 scheduled 2026-11-23 11:30 UK | 2026-11-22 (backlog)
 pvp_honor_rank.mp4 | TikTok 6b02ea1ccc364169c1560404 (2026-11-22 18:30 UK) | YouTube 6b02ea1dc72676f5e92ddc1b (2026-11-24 10:00 UK) | 2026-11-22

@@ -2,6 +2,17 @@
 
 The daily task posts up to 3 per day from the top of this list through Buffer (see its prompt). After a video is posted, or if it is already on the channel, move its line to POSTED.md and delete it here.
 
+## dire_maul_west_quests.mp4
+- URL: https://raw.githubusercontent.com/winshipluke267-netizen/wow-shorts-media/main/videos/dire_maul_west_quests.mp4
+- Title: Dire Maul West Quests | WoW Forever #Shorts
+- Description:
+```
+Every Dire Maul West quest in Wow Forever: how to get each one and which are faction locked. Which dungeon should I do next? Comment below! Info via Wowhead
+
+#wowforever #worldofwarcraft #wow #dungeon #quests #wowclassic #mmorpg #gaming #Shorts
+```
+(Buffer post 6b013f44d9cbb430a1265c2a FAILED 2026-11-22 13:00: daily channel limit. Not on YouTube. Re-queue; delete the errored post first.)
+
 ## enchanting_1_300.mp4
 - URL: https://raw.githubusercontent.com/winshipluke267-netizen/wow-shorts-media/main/videos/enchanting_1_300.mp4
 - Title: Enchanting 1-300 Guide | WoW Forever #Shorts
