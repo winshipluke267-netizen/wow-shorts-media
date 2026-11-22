@@ -15,3 +15,4 @@ legacy_points_fast.mp4 | posted manually by the user to TikTok and YouTube (not 
 dire_maul_north_quests.mp4 | - | YouTube 6b013f43510276624500c37d scheduled 2026-11-22 11:30 UK | 2026-11-21 (backlog)
 dire_maul_west_quests.mp4 | - | YouTube 6b013f44d9cbb430a1265c2a scheduled 2026-11-22 13:00 UK | 2026-11-21 (backlog)
 hotfixes_nov20.mp4 | TikTok 6b01baf6d5eabfb8cc4038e4 (2026-11-21 18:30 UK) | YouTube 6b01baf7d864a0110556b928 (2026-11-23 10:00 UK; Nov 22 YouTube slots full) | 2026-11-21
+drowned_city_quests.mp4 | - | YouTube 6b02908dd864a01105a21062 scheduled 2026-11-23 11:30 UK | 2026-11-22 (backlog)

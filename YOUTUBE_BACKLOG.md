@@ -2,16 +2,6 @@
 
 The daily task posts up to 3 per day from the top of this list through Buffer (see its prompt). After a video is posted, or if it is already on the channel, move its line to POSTED.md and delete it here.
 
-## drowned_city_quests.mp4
-- URL: https://raw.githubusercontent.com/winshipluke267-netizen/wow-shorts-media/main/videos/drowned_city_quests.mp4
-- Title: Drowned City Quests | WoW Forever #Shorts
-- Description:
-```
-Every Drowned City quest in Wow Forever: how to get each one and which are faction locked. Which dungeon should I do next? Comment below! Info via Wowhead
-
-#wowforever #worldofwarcraft #wow #dungeon #quests #wowclassic #mmorpg #gaming #Shorts
-```
-
 ## enchanting_1_300.mp4
 - URL: https://raw.githubusercontent.com/winshipluke267-netizen/wow-shorts-media/main/videos/enchanting_1_300.mp4
 - Title: Enchanting 1-300 Guide | WoW Forever #Shorts
