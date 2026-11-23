@@ -2,6 +2,26 @@
 
 The daily task posts up to 3 per day from the top of this list through Buffer (see its prompt). After a video is posted, or if it is already on the channel, move its line to POSTED.md and delete it here.
 
+## class_leveling_tiers.mp4
+- URL: https://raw.githubusercontent.com/winshipluke267-netizen/wow-shorts-media/main/videos/class_leveling_tiers.mp4
+- Title: Best Class to Level in WoW Forever | #Shorts
+- Description:
+```
+Which class levels fastest from 1 to 60 in WoW Forever? Early tier list consensus for all 9 classes: Hunter and Mage on top, Warrior at the bottom. Which class are you leveling? Comment below! Info via Axeetech, Timesaver and MMOnster
+
+#wowforever #worldofwarcraft #wow #leveling #classes #wowclassic #mmorpg #gaming #Shorts
+```
+
+## pre_raid_bis_classes.mp4
+- URL: https://raw.githubusercontent.com/winshipluke267-netizen/wow-shorts-media/main/videos/pre_raid_bis_classes.mp4
+- Title: Pre-Raid BiS for All 9 Classes | WoW Forever #Shorts
+- Description:
+```
+Pre-raid best in slot gear for all 9 classes at level 60: chest and weapon picks and where to get them. Lists can change when raids open on December 9. Which class do you want next? Comment below! Info via FrostyBoost
+
+#wowforever #worldofwarcraft #wow #bis #preraid #wowclassic #mmorpg #gaming #Shorts
+```
+
 ## dire_maul_west_quests.mp4
 - URL: https://raw.githubusercontent.com/winshipluke267-netizen/wow-shorts-media/main/videos/dire_maul_west_quests.mp4
 - Title: Dire Maul West Quests | WoW Forever #Shorts

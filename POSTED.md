@@ -21,3 +21,5 @@ healer_shortage.mp4 | TikTok 6b02ea1dc72676f5e92ddbf0 (2026-11-23 12:30 UK) | Yo
 healer_shortage.mp4 | TikTok moved to 2026-11-22 21:00 UK at user request (post 6b02ea1dc72676f5e92ddbf0) | 2026-11-22
 bis_itemization.mp4 | TikTok 6b02ed0cd5eabfb8ccadd643 (2026-11-23 12:30 UK) | YouTube 6b02ed0dd864a01105c6c9ed (2026-11-25 10:00 UK) | 2026-11-22
 merchant_factions.mp4 | TikTok 6b02ed0dd5eabfb8ccadd68a (2026-11-23 18:30 UK) | YouTube 6b02ed0e846b0ee9078a88cf (2026-11-25 16:00 UK) | 2026-11-22
+class_leveling_tiers.mp4 | TikTok 6b038882a6de38de9ea624b8 scheduled 2026-11-24 09:30 UK | YouTube: in YOUTUBE_BACKLOG.md | 2026-11-23
+pre_raid_bis_classes.mp4 | TikTok 6b038883a6de38de9ea624e4 scheduled 2026-11-24 15:30 UK | YouTube: in YOUTUBE_BACKLOG.md | 2026-11-23
