@@ -23,3 +23,9 @@ bis_itemization.mp4 | TikTok 6b02ed0cd5eabfb8ccadd643 (2026-11-23 12:30 UK) | Yo
 merchant_factions.mp4 | TikTok 6b02ed0dd5eabfb8ccadd68a (2026-11-23 18:30 UK) | YouTube 6b02ed0e846b0ee9078a88cf (2026-11-25 16:00 UK) | 2026-11-22
 class_leveling_tiers.mp4 | TikTok 6b038882a6de38de9ea624b8 scheduled 2026-11-24 09:30 UK | YouTube: in YOUTUBE_BACKLOG.md | 2026-11-23
 pre_raid_bis_classes.mp4 | TikTok 6b038883a6de38de9ea624e4 scheduled 2026-11-24 15:30 UK | YouTube: in YOUTUBE_BACKLOG.md | 2026-11-23
+consumables_forever.mp4 | TikTok 6b06855322dfb7833a893403 (2026-11-25 12:30 UK) | YouTube 6b068554d8874a038cfc74b7 (2026-11-26 10:00 UK) | 2026-11-25
+druid_leveling.mp4 | TikTok 6b068554b6204bca46d33d0a (2026-11-25 18:30 UK) | YouTube 6b06855540e1d58d1206798d (2026-11-26 16:00 UK) | 2026-11-25
+class_leveling_tiers.mp4 | - | YouTube 6b06856640e1d58d12067f7a (2026-11-27 13:00 UK) | 2026-11-25 (backlog)
+pre_raid_bis_classes.mp4 | - | YouTube 6b068567c68d7845a48b422b (2026-11-27 15:00 UK) | 2026-11-25 (backlog)
+enchanting_1_300.mp4 | - | YouTube 6b068568b6204bca46d34307 (2026-11-28 13:00 UK) | 2026-11-25 (backlog)
+engineering_1_300.mp4 | - | YouTube 6b06856940e1d58d120681af (2026-11-28 15:00 UK) | 2026-11-25 (backlog)

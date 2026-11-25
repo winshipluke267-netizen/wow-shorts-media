@@ -2,26 +2,6 @@
 
 The daily task posts up to 3 per day from the top of this list through Buffer (see its prompt). After a video is posted, or if it is already on the channel, move its line to POSTED.md and delete it here.
 
-## class_leveling_tiers.mp4
-- URL: https://raw.githubusercontent.com/winshipluke267-netizen/wow-shorts-media/main/videos/class_leveling_tiers.mp4
-- Title: Best Class to Level in WoW Forever | #Shorts
-- Description:
-```
-Which class levels fastest from 1 to 60 in WoW Forever? Early tier list consensus for all 9 classes: Hunter and Mage on top, Warrior at the bottom. Which class are you leveling? Comment below! Info via Axeetech, Timesaver and MMOnster
-
-#wowforever #worldofwarcraft #wow #leveling #classes #wowclassic #mmorpg #gaming #Shorts
-```
-
-## pre_raid_bis_classes.mp4
-- URL: https://raw.githubusercontent.com/winshipluke267-netizen/wow-shorts-media/main/videos/pre_raid_bis_classes.mp4
-- Title: Pre-Raid BiS for All 9 Classes | WoW Forever #Shorts
-- Description:
-```
-Pre-raid best in slot gear for all 9 classes at level 60: chest and weapon picks and where to get them. Lists can change when raids open on December 9. Which class do you want next? Comment below! Info via FrostyBoost
-
-#wowforever #worldofwarcraft #wow #bis #preraid #wowclassic #mmorpg #gaming #Shorts
-```
-
 ## dire_maul_west_quests.mp4
 - URL: https://raw.githubusercontent.com/winshipluke267-netizen/wow-shorts-media/main/videos/dire_maul_west_quests.mp4
 - Title: Dire Maul West Quests | WoW Forever #Shorts
@@ -32,26 +12,6 @@ Every Dire Maul West quest in Wow Forever: how to get each one and which are fac
 #wowforever #worldofwarcraft #wow #dungeon #quests #wowclassic #mmorpg #gaming #Shorts
 ```
 (Buffer post 6b013f44d9cbb430a1265c2a FAILED 2026-11-22 13:00: daily channel limit. Not on YouTube. Re-queue; delete the errored post first.)
-
-## enchanting_1_300.mp4
-- URL: https://raw.githubusercontent.com/winshipluke267-netizen/wow-shorts-media/main/videos/enchanting_1_300.mp4
-- Title: Enchanting 1-300 Guide | WoW Forever #Shorts
-- Description:
-```
-Level Enchanting 1-300 in Wow Forever with the exact enchants to craft at each step. Which profession should I do next? Comment below! Info via Wowhead
-
-#wowforever #worldofwarcraft #wow #enchanting #profession #wowclassic #mmorpg #gaming #Shorts
-```
-
-## engineering_1_300.mp4
-- URL: https://raw.githubusercontent.com/winshipluke267-netizen/wow-shorts-media/main/videos/engineering_1_300.mp4
-- Title: Engineering 1-300 Guide | WoW Forever #Shorts
-- Description:
-```
-Level Engineering 1-300 in Wow Forever with the exact items to craft at each step. Which profession should I do next? Comment below! Info via Wowhead
-
-#wowforever #worldofwarcraft #wow #engineering #profession #wowclassic #mmorpg #gaming #Shorts
-```
 
 ## excavation_site_quests.mp4
 - URL: https://raw.githubusercontent.com/winshipluke267-netizen/wow-shorts-media/main/videos/excavation_site_quests.mp4
