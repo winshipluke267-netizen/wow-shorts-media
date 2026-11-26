@@ -29,3 +29,5 @@ class_leveling_tiers.mp4 | - | YouTube 6b06856640e1d58d12067f7a (2026-11-27 13:0
 pre_raid_bis_classes.mp4 | - | YouTube 6b068567c68d7845a48b422b (2026-11-27 15:00 UK) | 2026-11-25 (backlog)
 enchanting_1_300.mp4 | - | YouTube 6b068568b6204bca46d34307 (2026-11-28 13:00 UK) | 2026-11-25 (backlog)
 engineering_1_300.mp4 | - | YouTube 6b06856940e1d58d120681af (2026-11-28 15:00 UK) | 2026-11-25 (backlog)
+hotfixes_nov25.mp4 | TikTok 6b07d75caca861248087e699 (2026-11-26 12:30 UK) | YouTube 6b07d75d7cb39d7aa357b61d (2026-11-29 10:00 UK) | 2026-11-26
+hunter_leveling.mp4 | TikTok 6b07d75df13f49a9259b4f24 (2026-11-26 18:30 UK) | YouTube 6b07d75e63939e1d007c510c (2026-11-29 16:00 UK) | 2026-11-26
