@@ -13,16 +13,6 @@ Every Dire Maul West quest in Wow Forever: how to get each one and which are fac
 ```
 (Buffer post 6b013f44d9cbb430a1265c2a FAILED 2026-11-22 13:00: daily channel limit. Not on YouTube. Re-queue; delete the errored post first.)
 
-## excavation_site_quests.mp4
-- URL: https://raw.githubusercontent.com/winshipluke267-netizen/wow-shorts-media/main/videos/excavation_site_quests.mp4
-- Title: Excavation Site Quests | WoW Forever #Shorts
-- Description:
-```
-Every Excavation Site quest in Wow Forever: how to get each one and which are faction locked. Which dungeon should I do next? Comment below! Info via Wowhead
-
-#wowforever #worldofwarcraft #wow #dungeon #quests #wowclassic #mmorpg #gaming #Shorts
-```
-
 ## first_aid_1_300.mp4
 - URL: https://raw.githubusercontent.com/winshipluke267-netizen/wow-shorts-media/main/videos/first_aid_1_300.mp4
 - Title: First Aid 1-300 Guide | WoW Forever #Shorts

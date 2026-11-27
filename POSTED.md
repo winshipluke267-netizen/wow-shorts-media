@@ -31,3 +31,9 @@ enchanting_1_300.mp4 | - | YouTube 6b068568b6204bca46d34307 (2026-11-28 13:00 UK
 engineering_1_300.mp4 | - | YouTube 6b06856940e1d58d120681af (2026-11-28 15:00 UK) | 2026-11-25 (backlog)
 hotfixes_nov25.mp4 | TikTok 6b07d75caca861248087e699 (2026-11-26 12:30 UK) | YouTube 6b07d75d7cb39d7aa357b61d (2026-11-29 10:00 UK) | 2026-11-26
 hunter_leveling.mp4 | TikTok 6b07d75df13f49a9259b4f24 (2026-11-26 18:30 UK) | YouTube 6b07d75e63939e1d007c510c (2026-11-29 16:00 UK) | 2026-11-26
+hotfixes_nov23.mp4 | TikTok 6b092a28062ed764a8efe1e2 (2026-11-27 12:30 UK) | YouTube 6b092a27658222306ced2ab8 (2026-11-27 12:30 UK) | 2026-11-27
+mage_leveling.mp4 | TikTok 6b092a29049983dcfb968678 (2026-11-27 18:30 UK) | YouTube 6b092a30658222306ced31ef (2026-11-30 16:15 UK) | 2026-11-27
+excavation_site_quests.mp4 | - | YouTube 6b092a311fd46e62e71e99b6 (2026-11-30 13:40 UK) | 2026-11-27 (backlog)
+pre_raid_bis_classes.mp4 | - | YouTube 6b068567c68d7845a48b422b moved from 2026-11-27 15:00 to 2026-11-29 13:20 UK (patch video priority) | 2026-11-27
+consumables_forever.mp4 | - | YouTube 6b068554d8874a038cfc74b7 FAILED 2026-11-26 10:00 (daily limit); NOT on YouTube, errored post still in Buffer, awaiting user | 2026-11-27
+druid_leveling.mp4 | - | YouTube 6b06855540e1d58d1206798d FAILED 2026-11-26 16:00 (daily limit); NOT on YouTube, errored post still in Buffer, awaiting user | 2026-11-27
