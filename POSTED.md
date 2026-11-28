@@ -37,3 +37,5 @@ excavation_site_quests.mp4 | - | YouTube 6b092a311fd46e62e71e99b6 (2026-11-30 13
 pre_raid_bis_classes.mp4 | - | YouTube 6b068567c68d7845a48b422b moved from 2026-11-27 15:00 to 2026-11-29 13:20 UK (patch video priority) | 2026-11-27
 consumables_forever.mp4 | - | YouTube 6b068554d8874a038cfc74b7 FAILED 2026-11-26 10:00 (daily limit); NOT on YouTube, errored post still in Buffer, awaiting user | 2026-11-27
 druid_leveling.mp4 | - | YouTube 6b06855540e1d58d1206798d FAILED 2026-11-26 16:00 (daily limit); NOT on YouTube, errored post still in Buffer, awaiting user | 2026-11-27
+mount_costs.mp4 | TikTok 6b0a7a72cf6d91773007ce3e (2026-11-28 12:30 UK) | YouTube 6b0a7a73fe7140cdac97aad9 (2026-12-01 14:10 UK) | 2026-11-28
+paladin_leveling.mp4 | TikTok 6b0a7a73d089f54571949264 (2026-11-28 18:30 UK) | YouTube 6b0a7a74cf6d91773007cea5 (2026-12-01 16:45 UK) | 2026-11-28
